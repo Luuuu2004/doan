@@ -1,9 +1,6 @@
 # Xây dựng WEB mua sắm điện thoại thông minh (Smartphone) sử dụng Django Framework 
 
 ## Thực trên trên 2 trang web thương mại điện tử lớn tại Việt Nam: Thế giới di động và FPT Shop.
-
-## Báo cáo dự án: [Notion](https://ionized-skateboard-f1a.notion.site/T-i-li-u-h-th-ng-Web-So-S-nh-Gi-ae2c99f60bdb4289966a2f170e1873f5)
-
 ## Hướng Dẫn Cài Đặt
 ```bash
 git clone <url>
